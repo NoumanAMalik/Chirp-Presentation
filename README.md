@@ -18,4 +18,4 @@
 - And finally, the web app is hosted on Vercel
 
 ### Challenges
-- First challange I faced, was with Supabase. The reason I first chose Supabase, is because it offers both, a database and authentication in a single package. So, I thought it would be easier to use. But I was wrong. I kept facing issues where Supabase wouldn't store the uses current session.
+- First challange I faced, was with Supabase. The reason I first chose Supabase, is because it offers both, a database and authentication in a single package. So, I thought it would be easier to use. But I was wrong. I kept facing issues where Supabase wouldn't store the uses current session. Which meant, that when a user reloaded the page, they would need to login again. Because of this, I switched to Clerk dev, which takes care of the session management, allowing the user to reload the page without needing to authenticate again.

@@ -32,11 +32,10 @@
    - This would then create an infinite loop that I didn't notice was happening, where the useEffect would get all the messages, then update the state, which causes a re-render, which would then call the useEffect again, and this would infinitely loop.
 
 ### Future Work
-- For things to come in the future for chirp alot can really be brought as more time goes on.
-- With the increase of users and demands from our users we can make implementations accordingly. Many other apps in the space have really shown a great evolution over their time.
-- Some implementations can include a possible marketplace like facebook marketplace and also more capabilities to build a network and network yourself.
-- This could create opportunities for our users and connect them with people that are in the same field and with common interests. Another discussed future advancement that could be brought to chirp is live streaming.
-- This could give our users a chance to entertain others and market themselves to the following and audience they gather on the platform.
+- Make the website look nicer to improve the overall feel
+- Have a search to find users based on their username or name attached to their profile
+- Incorporate private messages
+- Add in a subscription service that is available to subscribe to users with special benefits depending on the user.
 
 
 ### Therefore

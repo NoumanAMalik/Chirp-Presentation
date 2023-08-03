@@ -11,7 +11,7 @@
 
 ### Programming Languages and Technologies
 - Frontend and Framework: Next.js and JavaScript
-- CSS: TailWindCSS
+- CSS: TailwindCSS
 - Component Library: Daisy UI
 - Backend: Supabase, which has a Postgres SQL database
 - API: Supabase Javascript Client
